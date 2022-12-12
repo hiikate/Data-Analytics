@@ -10,9 +10,9 @@ while guessmade < 3:
     guess = int(guess)
     guessmade = guessmade + 1
     if guess < number:
-        print('Your guess is too low!')
+        print('Nope, too low!')
     if guess > number:
-        print('Your guess is too high!')
+        print('Nice try but too high!')
     if guess == number:
         break
 if guess == number:

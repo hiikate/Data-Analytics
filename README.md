@@ -1,1 +1,1 @@
-# This repo includes my practices with data mining in Python 
+# This repo includes data mining practices 
